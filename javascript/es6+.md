@@ -30,7 +30,7 @@ Documento para almacenar la teoria conocida de JS.x
 
 Ejemplo: (Pass By Reference)
 
-```
+```js
 //javascript pass by reference
 function callByReference(varObj) {
     console.log("Inside Call by Reference Method");
@@ -57,7 +57,9 @@ console.log(varObj); // { a: 100 }
 
 Ejemplo: (Pass By Value)
 
-
+```js
+console.log(123)
+```
 
 
 <!--- Eraser file: https://app.eraser.io/workspace/gFSbU3NOXCd34DbQnfB6 --->

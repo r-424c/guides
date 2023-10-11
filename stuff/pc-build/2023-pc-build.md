@@ -19,10 +19,9 @@ Its important to install this particular heatsink correctly, the orientation sho
 
 I really gave my best to explain all this case, and also I wanted to build a good and long-term durable PC, so I was decided to make the best possible installation for the heatsink.
 
-<!-- translate -->
 So, as you can see, this (AMD-MODE) should have been the common way to install the backplate:
 
-<img src="assets/raw/mobo-x47-showroom/mobo-backplate-x47-view-above.jpeg" width="50%">
+<img src="assets/mobo-x47-showroom/mobo-backplate-x47-view-above.jpeg" width="50%">
 
 But it didn't happen that way, because I had 2 issues:
 

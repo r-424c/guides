@@ -5,6 +5,16 @@ I started this build on September/2023, and I'm writing this on October/2023.
 
 <img src="assets/pc-full-opened-view.jpg" width="80%">
 
+## BIOS
+
+I'm using the latest BIOS version:
+
+<img src="assets/bios/bios-version.jpeg" width="50%">
+
+I updated the BIOS using a USB Flash Drive, and following the instructions from a youtube video.
+
+There was a few options that cant be configured with the default bios version, so I had to update it.
+
 ## CPU
 
 LGA 1700, Intel Core i5 12600K 3.7 GHz
@@ -94,6 +104,8 @@ I think that the most important factors to reach this performance are:
 
 By doing this configuration, the P-Cores (Performance Cores) are really smart, taking values between 3.9 to 4.4 GHz; but at 100% usage, the clock stickt at 3.9 GHz, and keeps good temperatures.
 
+![Alt text](image-1.png)
+
 ## RAM
 
 ### Temperatures
@@ -128,9 +140,10 @@ For my case, I had to face few scenarios to get the best improvement possible. S
 We need to install the heatsink correctly to gain good temps (by correctly, I mean, the air-outputs facing the M2 Slots, and with the thermal pads inverted).
 33°C-55°C (from HWinfo reports)
 
-|Avg|Min|Max|
-|-|-|-|
-45°C|33°C|55°C|
+
+|Avg|Min|Max|Case Mode|
+|-|-|-|-|
+45°C|33°C|55°C|Closed|
 
 I don't remember the temps before the change, but I think it was around 55°C-68°C.
 
@@ -138,9 +151,9 @@ I don't remember the temps before the change, but I think it was around 55°C-68
 
 Not as hot as the EVO 970+, but was a notory improvement when the backplate-heatsink was installed.
 
-|Avg|Min|Max|
-|-|-|-|
-36°C|31°C|41°C|
+|Avg|Min|Max|Case Mode|
+|-|-|-|-|
+36°C|31°C|41°C|Closed|
 
 ### M2 Ports
 
@@ -189,3 +202,15 @@ The WIFI and the ASUS Antenna are really good, I'm getting 100% signal strength,
 I'm really happy with this build, I think I made a good investment, and I'm sure that this PC will last for a long time.
 
 Despites the issues I had, I think that the motherboard is really good and the CPU full copper heatsink is really good too.
+
+### Benchmarking
+
+Values with yellow color are the Max values or top reached values.
+
+The last of us:
+
+<img src="assets/benchmarking-1.png" width="50%">
+
+Cinebench R23 (really old benchmark, i'll do it again with a newer version):
+
+![Alt text](image.png)

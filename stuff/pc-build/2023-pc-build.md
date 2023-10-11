@@ -28,18 +28,22 @@ Intel Core i5 12600K
 |-|-|-|
 |P-Core 0|44|4400 MHz|
 |P-Core 1|44|4400 MHz|
-|P-Core 2|40|4400 MHz|
-|P-Core 3|40|4400 MHz|
-|P-Core 4|40|4400 MHz|
-|P-Core 5|39|4400 MHz|
+|P-Core 2|40|4000 MHz|
+|P-Core 3|40|4000 MHz|
+|P-Core 4|40|4000 MHz|
+|P-Core 5|39|3900 MHz|
 |E-Core 6|39|3900 MHz|
 |E-Core 7|39|3900 MHz|
-|E-Core 8|39|3900 MHz|
-|E-Core 9|39|3900 MHz|
+|E-Core 8|38|3800 MHz|
+|E-Core 9|38|3800 MHz|
+
+![](assets/bios-cpu-p-cores-values.png)
+
+By doing this configuration, the P-Cores (Performance Cores) are really smart,taking values between 3.9 to 4.4 GHz; but at 100% usage, the clock goes at 3.9 GHz, and keeps good temperatures.
 
 ## RAM 
 
-### temps
+### Temperatures
 
 Max: 64° (no matter if the case is opened or closed)
 

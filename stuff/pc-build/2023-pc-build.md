@@ -99,7 +99,8 @@ Intel Core i5 12600K
 
 I think that the most important factors to reach this performance are:
 
-- CPU System Agent Voltage: 1.18 V
+- CPU System Agent Voltage: 1.18 V 
+
 - CPU Frecuencies: 3.8 to 4.4 GHz
 
 By doing this configuration, the P-Cores (Performance Cores) are really smart, taking values between 3.9 to 4.4 GHz; but at 100% usage, the clock stickt at 3.9 GHz, and keeps good temperatures.
@@ -213,4 +214,4 @@ The last of us:
 
 Cinebench R23 (really old benchmark, i'll do it again with a newer version):
 
-![Alt text](image.png)
+<img src="assets/benchmarking-2.png" width="50%">

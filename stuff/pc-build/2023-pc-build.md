@@ -242,3 +242,9 @@ Cinebench R23 (really old benchmark, i'll do it again with a newer version):
 |GPU|33°C|34°C|Closed|
 
 <img src="assets/benchmarking-2.png" width="80%">
+
+> Test completed: **15142** Pts.
+
+<img src="assets/benchmarking-cpu-full-usage-2.png" width="80%">
+
+> 100% usage: 3.9 GHz (while benchmarking)

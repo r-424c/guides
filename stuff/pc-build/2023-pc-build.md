@@ -1,7 +1,9 @@
 
 # PC Build 2023
 
-I started this build on September/2023, and I'm writing this on October/2023.
+I started this [build](https://pcpartpicker.com/b/cW68TW) on September/2023, and I'm writing this on October/2023.
+
+[PcPartPicker](https://pcpartpicker.com/b/cW68TW)
 
 > In the `assets/` folder you can find all the footage and photos I took during the build.
 

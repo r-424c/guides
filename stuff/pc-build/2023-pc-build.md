@@ -166,7 +166,9 @@ Not much to say, this ASUS RTX 4060 is a good deal, awesome performance and good
 
 ## USB-e header, USB 20-pin header
 
-In my opinion, these USB 20-pin headers are really a headache. I tried something new to replace it, and it worked.
+In my opinion, these USB 20-pin headers are really a headache. I tried something new to replace the common connection, something better and confortable.
+
+It worked.
 
 <img src="assets/usb-e-to-usb-20pin.jpg" width="50%">
 <img src="assets/usb-20pin-to-usb-e.webp" width="50%">

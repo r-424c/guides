@@ -145,13 +145,17 @@ Not as hot as the EVO 970+, but was a notory improvement when the backplate-heat
 ### M2 Ports
 
 Top port:
+
 <img src="assets/M2-Slots/IMG_5998.jpeg" width="50%">
+
 <img src="assets/M2-Slots/IMG_6001.jpeg" width="50%">
 
 Bottom port:
+
 <img src="assets/M2-Slots/IMG_6010.jpeg" width="50%">
 
 Below the bottom port is the chipset heatsink:
+
 <img src="assets/mobo-chipset-heatsink4.jpeg" width="50%">
 
 ## GPU

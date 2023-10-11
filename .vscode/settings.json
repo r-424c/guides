@@ -1,0 +1,21 @@
+{
+  // "editor.fontSize": 14,
+  // "window.zoomLevel": 0.45,
+  "editor.fontSize": 13,
+  "window.zoomLevel": 1.6,
+  "editor.snippetSuggestions": "none",
+  "editor.minimap.scale": 1,
+  "editor.minimap.maxColumn": 60,
+  "editor.scrollbar.verticalScrollbarSize": 8,
+  "editor.minimap.showSlider": "always",
+  "markdownlint.config": {
+    "MD033": {
+      "allowed_elements": [
+        "img",
+        "sup",
+        "a"
+      ]
+    }
+  }
+  // "filewatcher.autoClearConsole": true,
+}

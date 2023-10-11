@@ -3,6 +3,8 @@
 
 I started this build on September/2023, and I'm writing this on October/2023.
 
+> In the `assets/` folder you can find all the footage and photos I took during the build.
+
 <img src="assets/pc-full-opened-view.jpg" width="80%">
 
 ## BIOS
@@ -99,13 +101,21 @@ Intel Core i5 12600K
 
 I think that the most important factors to reach this performance are:
 
-- CPU System Agent Voltage: 1.18 V 
+- CPU System Agent Voltage: 1.18 V
+
+<img src="assets/cpu-voltage-monit-1.png" width="50%">
 
 - CPU Frecuencies: 3.8 to 4.4 GHz
 
 By doing this configuration, the P-Cores (Performance Cores) are really smart, taking values between 3.9 to 4.4 GHz; but at 100% usage, the clock stickt at 3.9 GHz, and keeps good temperatures.
 
-![Alt text](image-1.png)
+<img src="assets/benchmarking-cpu-full-usage-2.png" width="80%">
+
+> 100% usage: 3.9 GHz (benchmarking)
+
+<img src="assets/benchmarking-cpu-low-usage-2.png" width="50%">
+
+> Low usage: 4.4 GHz
 
 ## RAM
 
@@ -192,7 +202,10 @@ In my opinion, these USB 20-pin headers are really a headache. I tried something
 It worked.
 
 <img src="assets/usb-e-to-usb-20pin.jpg" width="50%">
+
 <img src="assets/usb-20pin-to-usb-e.webp" width="50%">
+
+<img src="assets/usb-e-header-in-usb-20pin.jpg" width="50%">
 
 ## WIFI
 
@@ -206,12 +219,24 @@ Despites the issues I had, I think that the motherboard is really good and the C
 
 ### Benchmarking
 
-Values with yellow color are the Max values or top reached values.
+- Values with yellow color are the Max values or top reached values.
+- Values with blue color are the current values provided by the sensors.
 
-The last of us:
+The Last of Us Part 1 (2022):
+
+|Sensor|Avg|Max|Case Mode|
+|-|-|-|-|
+|CPU|53°C|62°C|Closed|
+|GPU|55°C|58°C|Closed|
+|SSD Evo 970+|49°C|55°C|Closed|
 
 <img src="assets/benchmarking-1.png" width="50%">
 
 Cinebench R23 (really old benchmark, i'll do it again with a newer version):
 
-<img src="assets/benchmarking-2.png" width="50%">
+|Sensor|Avg|Max|Case Mode|
+|-|-|-|-|
+|CPU|68°C|73°C|Closed|
+|GPU|33°C|34°C|Closed|
+
+<img src="assets/benchmarking-2.png" width="80%">

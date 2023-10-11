@@ -58,7 +58,7 @@ yep, I used a Wall Screw Plug, and it worked perfectly.
 
 as an alternative that I took later, but I think is not necessary at all: **EK-AIO LGA1700 Upgrade Kit**, It would work and resist the same as the Wall Screw Plug.
 
-## Contact Frame
+### Contact Frame
 
 This was a really good add-on
 
@@ -66,7 +66,7 @@ This was a really good add-on
 
 <img src="assets/cpu-contact-frame.jpg" width="50%">
 
-## Undervolt and Overclock (Asus BIOS)
+### Undervolt and Overclock (Asus BIOS)
 
 Intel Core i5 12600K
 
@@ -164,6 +164,13 @@ Not much to say, this ASUS RTX 4060 is a good deal, awesome performance and good
 
 <img src="assets/case-gpu-view-2.jpeg" width="50%">
 
+### PCI-E Connection
+
+The cases comes with a PCI-E 3.0 x16 riser cable, but I bought a PCI-E 4.0 x16 riser cable from aliexpress, specifically
+a `18.5cm` dual reverse, same as the one that comes with the case.
+
+I tested the PCI-E 4.0 x16 riser cable with the cinebench benchmark and gaming COD MW2 (2022), checking the GPU bandwidth report from HWinfo, it shows `16.0 GT/s` with the **PCI-E 4.0** riser cable, and `8.0 GT/s` with the PCI-E 3.0 riser cable.
+
 ## USB-e header, USB 20-pin header
 
 In my opinion, these USB 20-pin headers are really a headache. I tried something new to replace the common connection, something better and confortable.
@@ -172,3 +179,13 @@ It worked.
 
 <img src="assets/usb-e-to-usb-20pin.jpg" width="50%">
 <img src="assets/usb-20pin-to-usb-e.webp" width="50%">
+
+## WIFI
+
+The WIFI and the ASUS Antenna are really good, I'm getting 100% signal strength, and the speed is really good.
+
+## Final Thoughts
+
+I'm really happy with this build, I think I made a good investment, and I'm sure that this PC will last for a long time.
+
+Despites the issues I had, I think that the motherboard is really good and the CPU full copper heatsink is really good too.

@@ -25,6 +25,8 @@ LGA 1700, Intel Core i5 12600K 3.7 GHz
 
 ### Heat Sink
 
+Thermalright AXP90 X47 (Full Copper)
+
 Its important to install this particular heatsink correctly, the orientation should be with the air-outputs facing the M2 Slots, not the RAM slots.
 
 <img src="assets/mobo-copper-cpu-heatsink.jpg" width="50%">
@@ -124,6 +126,8 @@ By doing this configuration, the P-Cores (Performance Cores) are really smart, t
 > Low usage: 4.4 GHz
 
 ## RAM
+
+Kingston FURY Beast RGB 32 GB (1 x 32 GB) DDR5-6000
 
 ### Temperatures
 

@@ -97,9 +97,13 @@ Intel Core i5 12600K
 |E-Core 8|38|3800 MHz|
 |E-Core 9|38|3800 MHz|
 
-<img src="assets/bios/bios-twk-2.jpeg" width="50%">
-<img src="assets/bios/bios-twk-3.jpeg" width="50%">
-<img src="assets/bios/bios-twk-4.jpeg" width="50%">
+<img src="assets/bios/bios-twk-1.jpeg" width="80%">
+
+<img src="assets/bios/bios-twk-2.jpeg" width="80%">
+
+<img src="assets/bios/bios-twk-3.jpeg" width="80%">
+
+<img src="assets/bios/bios-twk-4.jpeg" width="80%">
 
 I think that the most important factors to reach this performance are:
 
@@ -115,7 +119,7 @@ By doing this configuration, the P-Cores (Performance Cores) are really smart, t
 
 > 100% usage: 3.9 GHz (benchmarking)
 
-<img src="assets/benchmarking-cpu-low-usage-2.png" width="50%">
+<img src="assets/benchmarking-cpu-low-usage-2.png" width="80%">
 
 > Low usage: 4.4 GHz
 
@@ -139,13 +143,17 @@ For my case, I had to face few scenarios to get the best improvement possible. S
     - Now the grey ones are facing the top part of the SSDs and the green-ish ones are facing the bottom part of the SSDs.
 
     <img src="assets/M2-Slots/IMG_6013.jpeg" width="50%">
+
     <img src="assets/M2-Slots/IMG_6018.jpeg" width="50%">
+
     <img src="assets/M2-Slots/IMG_6016.jpeg" width="50%">
 
     - The back-heaksinks looks like this: (in my opinion, they are attached correctly and not moving at all)
 
     <img src="assets/M2-Slots/IMG_6003.jpeg" width="50%">
+
     <img src="assets/M2-Slots/IMG_6007.jpeg" width="50%">
+
     <img src="assets/m2-slots-backplate-view.jpg" width="50%">
 
 ### Samsung EVO 970+

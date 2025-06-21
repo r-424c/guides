@@ -1,6 +1,7 @@
 
 
 
+<img src="assets/lzmod-a24-v5/IMG_2960.JPEG" width="50%" >
 
 
 <!-- currently -->

@@ -24,7 +24,7 @@ A finales de 2024, decidí actualizar mi PC a una configuración AMD, con una MO
 <img src="assets/2025/build-overview-1.JPEG" width="50%" style="transform:rotate(-90deg);margin-left:4em">
 
 
-# Galeria 
+## Galeria 
 
 <img src="assets/2025/IMG_4396.JPEG" width="50%" >
 
@@ -39,13 +39,15 @@ A finales de 2024, decidí actualizar mi PC a una configuración AMD, con una MO
 <img src="assets/2025/IMG_4418.JPEG" width="50%" >
 
 
-# Soporte de GPU para la RTX 4080 SUPER
+## Soporte de GPU para la RTX 4080 SUPER
 
 Soporte de GPU para la RTX 4080 SUPER, con impresion 3d (modelo de EIGA: ...)
 
 <img src="assets/2025/IMG_4405.JPEG" width="50%" >
+<img src="assets/2025/IMG_4404.JPEG" width="50%" >
+<img src="assets/2025/IMG_4403.JPEG" width="50%" >
 
-# M.2 SSDs Configuración
+## M.2 SSDs Configuración
 
 Esto mejoró mucho las tempereaturas del M2, al estar en un area con mas flujo de aire.
 
@@ -54,6 +56,18 @@ Esto mejoró mucho las tempereaturas del M2, al estar en un area con mas flujo d
 Cinta Velcro de 3M, que uso para el M.2 trasero.
 
 <img src="assets/2025/IMG_4411.JPEG" width="50%" >
+<img src="assets/2025/IMG_4410.JPEG" width="50%" >
+<img src="assets/2025/IMG_4406.JPEG" width="50%" >
+<img src="assets/2025/IMG_4408.JPEG" width="50%" >
+
+## Benchmarks/Pruebas de rendimiento
+
+Mi meta con este build, en especifico con la CPU, era mantener los 5GHz multinucleo con buen rendimiento y temperaturas.
+
+<img src="assets/2025/IMG_4423.JPEG" width="50%" >
+<img src="assets/2025/IMG_4426.JPEG" width="50%" >
+<img src="assets/2025/IMG_4429.JPEG" width="50%" >
+
 
 
 

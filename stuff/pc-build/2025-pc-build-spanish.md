@@ -21,22 +21,17 @@ A finales de 2024, decidí actualizar mi PC a una configuración AMD, con una MO
 | COOLER | THERMALRIGHT AXP90-X53 LP FULL-COOPER (W/ STOCK FAN) |
 | CASE FAN | Phanteks D30-120 DRGB PWM (x2) |
 
-<img src="assets/2025/build-overview-1.JPEG" width="50%" style="transform:rotate(-90deg);margin-left:4em">
+<img src="assets/2025/build-overview-1.JPEG" width="80%" style="transform:rotate(-90deg);margin-left:5em">
 
 
 ## Galeria 
 
-<img src="assets/2025/IMG_4396.JPEG" width="50%" >
-
-<img src="assets/2025/IMG_4398.JPEG" width="50%" >
-
-<img src="assets/2025/IMG_4413.JPEG" width="50%" >
-
-<img src="assets/2025/IMG_4400.JPEG" width="50%" >
-
-<img src="assets/2025/IMG_4401.JPEG" width="50%" >
-
-<img src="assets/2025/IMG_4418.JPEG" width="50%" >
+<!-- table of images -->
+|  |  |
+| --- | --- |
+| <img src="assets/2025/IMG_4396.JPEG" > | <img src="assets/2025/IMG_4398.JPEG" > |
+| <img src="assets/2025/IMG_4413.JPEG" > | <img src="assets/2025/IMG_4400.JPEG" > |
+| <img src="assets/2025/IMG_4401.JPEG" > | <img src="assets/2025/IMG_4418.JPEG" > |
 
 
 ## Soporte de GPU para la RTX 4080 SUPER

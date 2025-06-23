@@ -66,6 +66,8 @@ There were two options — use the screw hole provided by the case or 3M Velcro 
 <img src="assets/2025/IMG_4410.JPEG" width="50%" >
 <img src="assets/2025/IMG_4406.JPEG" width="50%" >
 
+The reason I selected this specific M.2 Heatsink (Jeyi Godfins Gen1) is because it doesn't obstruct airflow for the CPU and GPU. It's the best fit for my case, I've tested a bunch of other heatsinks, and this one is the only one that fits well, disipates heat well, and doesn't obstruct airflow.
+
 ## Benchmarks / Performance Tests
 
 My goal with this build — especially the CPU — is to maintain 5GHz on all cores, with good performance and temperatures.  

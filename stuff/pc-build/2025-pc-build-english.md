@@ -29,6 +29,13 @@ At the end of 2024, I decided to upgrade to an AMD configuration, with a ROG B65
 | <img src="assets/2025/IMG_4413.JPEG" > | <img src="assets/2025/IMG_4400.JPEG" > |
 | <img src="assets/2025/IMG_4401.JPEG" > | <img src="assets/2025/IMG_4418.JPEG" > |
 
+## Custom Cables
+
+- 24-pin cable is a custom-made by myself, using default cable as reference. pins/connectors were bought from AliExpress.
+- 8-pin CPU cable the same as the 24-pin.
+- GPU 12VHPWR cable was purschased from dreambigbyray.com
+
+
 ## GPU Support for the RTX 4080 SUPER
 
 GPU support bracket for the RTX 4080 SUPER, 3D printed (EIGA model: ...)

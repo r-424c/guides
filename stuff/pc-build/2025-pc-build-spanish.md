@@ -7,7 +7,6 @@
 Mi build anterior tenía una MOBO rog-Z690-itx, configuración intel, un unico stick de ram de RAM, entre otros detalles.
 A finales de 2024, decidí actualizar mi PC a una configuración AMD, con una MOBO ROG B650ei y un Ryzen 7 9700X.
 
-<!-- quiero hacer una tabla con cada componente -->
 | COMPONENTE | DESCRIPCIÓN |
 | --- | --- |
 | CPU | AMD Ryzen 7 9700X |
